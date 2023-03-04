@@ -53,9 +53,9 @@ class HappyDemo {
     {
         int n = 23;
         if (isHappy(n))
-            return true;
-        else
             return false;
+        else
+            return true;
     }
 
 
